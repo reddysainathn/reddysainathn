@@ -33,12 +33,12 @@ issues = [
 
 
 for issue in issues:
-   if issue.status == 'FIXED':
+   if issue.get('status') == 'FIXED':
      print('BUG ❌')
    else:
      print('FEATURE ✅')
    finally:
-     print('Solved 🗝️')
+     print('Addressed! 🗝️')
 ```
 
 ### :zap: Github Stats
