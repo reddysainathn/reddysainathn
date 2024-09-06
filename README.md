@@ -18,7 +18,18 @@ Here are some ideas to get you started:
 -->
 
 ```
-issues = [{'problem_1' : 'The Semicolon Saga', 'status' : 'FIXED', 'notes' : 'Switched to Python! 🐍🚀'}, {'problem_2' : 'The Stack Overflow Dependency', 'status' : 'CANNOT_FIX', 'notes' : 'Efficient LLM's integrated to IDE's Maybe? 🧠💻🤔'}]
+issues = [
+   {
+      'problem_1' : 'The Semicolon Saga',
+      'status' : 'FIXED',
+      'notes' : 'Switched to Python! 🐍🚀'
+   },
+   {
+      'problem_2' : 'The Stack Overflow Dependency',
+      'status' : 'CANNOT_FIX',
+      'notes' : 'Efficient LLM's integrated to IDE's Maybe? 🧠💻🤔'
+   }
+]
 for issue in issues:
    if issue.status == 'FIXED':
      print('BUG ❌')
