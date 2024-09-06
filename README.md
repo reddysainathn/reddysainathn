@@ -38,7 +38,7 @@ for issue in issues:
    else:
      print('FEATURE ✅')
    finally:
-     print('Addressed! 🗝️')
+     print('Rectified! 🗝️')
 ```
 
 ### :zap: Github Stats
