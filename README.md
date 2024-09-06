@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ```
-for issue of issues:
+for issue in issues:
    if issue.status == 'FIXED':
      print('BUG ❌')
    else:
