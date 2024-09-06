@@ -30,6 +30,8 @@ issues = [
       'notes' : 'Efficient LLM's integrated to IDE's Maybe? 🧠💻🤔'
    }
 ]
+
+
 for issue in issues:
    if issue.status == 'FIXED':
      print('BUG ❌')
