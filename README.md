@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```
+for issue of issues:
+   if issue.status == 'FIXED':
+     print('BUG ❌')
+   else:
+     print('FEATURE ✅')
+   finally:
+     print('Solved 🗝️')
+```
+
 ### :zap: Github Stats
 <p>
     <a href="https://gitstats.me/reddysainathn" target="_blank"> 
