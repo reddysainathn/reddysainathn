@@ -34,9 +34,9 @@ issues = [
 
 for issue in issues:
    if issue.get('status') == 'FIXED':
-     print('BUG ❌')
+     print('Bug 🐛')
    else:
-     print('FEATURE ✅')
+     print('Feature ✨')
    finally:
      print('Rectified! 🗝️')
 ```
