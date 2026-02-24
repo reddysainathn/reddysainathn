@@ -26,9 +26,9 @@ issues = [
    },
    {
       'problem_2' : 'The Stack Overflow Dependency',
-      'status' : 'DEFFERED',
-      'notes' : 'Not Yet -> But the future : LLM's integrated to IDE's 🧠💻🤔'
-   }
+      'status' : 'FIXED',
+      'notes' : 'Claude Code!!!!'
+   },
 ]
 
 
