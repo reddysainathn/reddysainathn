@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-- 📫 Reach [me](https://about.me/reddysainathn) @github.updates@gmail.com
+- 📫 Reach [me](https://about.me/reddysainathn) @github.updates+gh@gmail.com
 
 <!--
 **reddysainathn/reddysainathn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
