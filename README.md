@@ -1,6 +1,11 @@
 ### Hello! 👋
 
-- 📫 Reach [me](https://about.me/reddysainathn) @github.updates+gh@gmail.com
+I’m Sainath Reddy — a builder who enjoys turning ideas into useful products, clean experiences, and practical solutions.
+
+- 🚀 Portfolio: [reddysainathn.github.io](https://reddysainathn.github.io/)
+- 💡 I like solving real problems with code, creativity, and curiosity.
+- 🧠 Currently exploring AI, product thinking, and full-stack development.
+- 📫 Reach [me](https://about.me/reddysainathn) or email me at [github.updates+gh@gmail.com](mailto:github.updates+gh@gmail.com)
 
 <!--
 **reddysainathn/reddysainathn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,27 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-```
-issues = [
-   {
-      'problem_1' : 'The Semicolon Saga',
-      'status' : 'FIXED',
-      'notes' : 'Switched to Python! 🐍🚀'
-   },
-   {
-      'problem_2' : 'The Stack Overflow Dependency',
-      'status' : 'FIXED',
-      'notes' : 'Claude Code!!!!'
-   },
-]
-
-
-for issue in issues:
-   if issue.get('status') == 'FIXED':
-     print('Bug 🐛')
-   else:
-     print('Feature ✨')
-   finally:
-     print('Rectified! 🗝️')
-```
