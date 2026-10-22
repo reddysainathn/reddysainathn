@@ -1,41 +1,48 @@
-### Hello! 👋
+### Hello! I'm Sainath 👋
 
-📫 Reach [me](https://about.me/reddysainathn) @github.updates+gh@gmail.com
+🛠️ Build → 🔧 Fix → ∞ Repeat
 
-<!--
-**reddysainathn/reddysainathn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend, Data & Applied AI — building distributed systems, reliable data pipelines, and practical AI experiences.
 
-Here are some ideas to get you started:
+### 🚀 [Explore my portfolio →](https://reddysainathn.github.io/)
+Projects, architecture, experience, and the stories behind what I build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧭 [Pay Compass — Know your market. Navigate your next offer. →](https://p75.vercel.app/)
+Explore H-1B salary benchmarks and hiring insights by employer, role, state, and year. Compare your offer against filed base-pay data.
 
-```
+📫 Reach me at [github.updates+gh@gmail.com](mailto:github.updates+gh@gmail.com)
+
+---
+
+### 🐛 Bugs, features, and other plot twists
+
+```python
 issues = [
-   {
-      'problem_1' : 'The Semicolon Saga',
-      'status' : 'FIXED',
-      'notes' : 'Switched to Python! 🐍🚀'
-   },
-   {
-      'problem_2' : 'The Stack Overflow Dependency',
-      'status' : 'FIXED',
-      'notes' : 'Claude Code!!!!'
-   },
+    {
+        "problem": "The Semicolon Saga",
+        "status": "FIXED",
+        "notes": "Switched to Python! 🐍🚀",
+    },
+    {
+        "problem": "The Stack Overflow Dependency",
+        "status": "FIXED",
+        "notes": "Claude Code entered the chat. 🤖",
+    },
+    {
+        "problem": "The One More Side Project Syndrome",
+        "status": "IN_PROGRESS",
+        "notes": "Started fixing it. Accidentally built another app. 🚀",
+    },
 ]
 
 for issue in issues:
-   if issue.get('status') == 'FIXED':
-     print('Bug 🐛')
-   else:
-     print('Feature ✨')
-   finally:
-     print('Rectified! 🗝️')
+    print(f"\n📌 {issue['problem']}")
+    print(issue["notes"])
+
+    if issue["status"] == "FIXED":
+        print("Bug squashed! 🐛✅")
+    else:
+        print("Feature in disguise. ✨")
+
+    print("Rectified! 🗝️")
 ```
